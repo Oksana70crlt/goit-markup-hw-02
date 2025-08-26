@@ -32,12 +32,11 @@ button{
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
     color: white;
-    border: none;
 }
 
 button:hover,
 button:focus{
-    background-color: #404BBF;
+  background-color: #404BBF;
 }
 
 .logo {
