@@ -49,6 +49,8 @@ a:focus{
   letter-spacing: 0.03em; 
   color: #4d5ae5; 
   font-weight: 700;
+  text-transform: uppercase;
+  font-size: 18px;
 }
 
 .logo:hover {
